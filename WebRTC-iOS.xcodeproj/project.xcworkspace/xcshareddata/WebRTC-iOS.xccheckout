@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B91075F1-437A-4B2C-B3B3-B86C6BFAE06C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WebRTC-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9C83A40-2181-4524-9E78-68A3ADBC4BDC</key>
+		<string>ssh://github.com/mutulong/WebRTC-iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WebRTC-iOS/WebRTC-iOS.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9C83A40-2181-4524-9E78-68A3ADBC4BDC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/mutulong/WebRTC-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9C83A40-2181-4524-9E78-68A3ADBC4BDC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9C83A40-2181-4524-9E78-68A3ADBC4BDC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WebRTC-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
